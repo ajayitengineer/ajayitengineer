@@ -3,9 +3,9 @@
 - 😄 Pronouns: He / Him / Engineer
 - 🔭 I’m currently working on Java script based full stack technologies.
 -  📫 Reach me:  
-                Find me here [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-bhatt07101990)
-                Find me here [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-bhatt07101990)
-
+                ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-bhatt07101990)
+                ![Medium]([![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat-square&logo=medium)](https://medium.com/@ajaybhatt)
+   
 
 
 
