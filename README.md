@@ -31,5 +31,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Below is link for my all public repositories.
-[List of Works](https://github.com/ajayitengineer/List-of-works)
+                                                              ### Below is link for my all public repositories.
+                                                          [List of Works](https://github.com/ajayitengineer/List-of-works)
+
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
+| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
+| Row 3, Col 1    | Row 3, Col 2    | Row 3, Col 3    |
