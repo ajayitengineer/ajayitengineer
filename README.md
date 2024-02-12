@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on Java script based full stack technologies.
 
   
--  📫 Reach me:
+-  📫 Reach me
 
   
-  [![Medium](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ajay-bhatt07101990)
+    [![Medium](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ajay-bhatt07101990)
 
 
    
