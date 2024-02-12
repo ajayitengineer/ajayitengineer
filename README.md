@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Below is link for my all public repositories.
-[List of Works](https://www.example.com)
+[List of Works](https://github.com/ajayitengineer/List-of-works)
